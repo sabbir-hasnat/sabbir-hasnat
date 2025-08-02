@@ -25,7 +25,7 @@ https://github.com/sabbir-hasnat/sabbir-hasnat/pull/1
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sabbir Hasnat and I'm a Student, from Daffodil International University</p>
 
 ###
 
